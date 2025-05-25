@@ -14,6 +14,26 @@ L'objectif est d'analyser des données de la NBA à partir de plusieurs fichiers
 
 Le projet est structuré comme un package Python, et les scripts ont été développés sans utiliser de bibliothèques comme `sklearn` ou `statsmodels`.
 
+## Architecture du projet
+
+Python-Rattrapage/
+├── data/
+│ ├── Players.csv
+│ ├── PlayerStatistics.csv
+│ ├── Salaries.csv
+│ └── TeamStatistics.csv
+├── src/
+│ └── init.py
+│ ├── leaderboard.py
+│ ├── team_statistics.py
+│ └── salary_prediction.py
+├── tests/
+│ └── test_salary_prediction.py
+├── scripts/
+│ └── run_leaderboard.py
+├── README.md
+└── setup.py
+
 ## Fonctionnalités développées
 
 - **Leaderboard** : affichage des meilleurs joueurs selon des critères choisis (statistique, saison, playoffs/saison régulière).
