@@ -1,8 +1,8 @@
 # Projet Python - Rattrapage ISUP 2025
 
-**Nom :** [Sihem YENBOU]  
-**Mail :** [yenbousihem@gmail.com]  
-**GitHub :** [https://github.com/sihemynb/Projet-Rattrapage]
+**Nom :** Sihem YENBOU
+**Mail :** yenbousihem@gmail.com
+**GitHub :** https://github.com/sihemynb/Projet-Rattrapage
 
 ## Présentation
 
