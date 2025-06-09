@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/projet_rattrapage/__init__.py
+src/projet_rattrapage/leaderboard.py
+src/projet_rattrapage/salary_prediction.py
+src/projet_rattrapage/team_statistics.py
+src/projet_rattrapage.egg-info/PKG-INFO
+src/projet_rattrapage.egg-info/SOURCES.txt
+src/projet_rattrapage.egg-info/dependency_links.txt
+src/projet_rattrapage.egg-info/requires.txt
+src/projet_rattrapage.egg-info/top_level.txt
+tests/test_salary_prediction.py

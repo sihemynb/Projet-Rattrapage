@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: projet_rattrapage
+Version: 0.1
+Summary: Projet Python ISUP 2025 – Analyse NBA
+Author: Sihem YENBOU
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
