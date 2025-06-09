@@ -17,28 +17,44 @@ Le projet est structuré comme un package Python, et les scripts ont été déve
 ## Architecture du projet
 
 Python-Rattrapage/
+
 ├── data/
+
 │   ├── Players.csv
+
 │   ├── PlayerStatistics.csv
+
 │   ├── Salaries.csv
+
 │   └── TeamStatistics.csv
 │
 ├── src/
+
 │   └── projet_rattrapage/
+
 │       ├── __init__.py
+
 │       ├── leaderboard.py
+
 │       ├── team_statistics.py
+
 │       └── salary_prediction.py
 │
 ├── tests/
+
 │   └── test_salary_prediction.py
 │
 ├── scripts/
+
 │   ├── run_leaderboard.py
+
 │   ├── run_team_statistics.py
+
 │   └── run_salary_prediction.py
+
 │
 ├── README.md
+
 └── setup.py
 
 ## Fonctionnalités développées
