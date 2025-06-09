@@ -41,6 +41,7 @@ Python-Rattrapage/
 │
 ├── README.md
 └── setup.py
+```bash
 
 ## Fonctionnalités développées
 
