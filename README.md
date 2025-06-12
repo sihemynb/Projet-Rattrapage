@@ -6,6 +6,8 @@
 
 **GitHub :** https://github.com/sihemynb/Projet-Rattrapage
 
+⚠️ **Attention :** Les fichiers `TeamStatistics.csv` et `PlayerStatistics.csv` ne sont pas présents dans le dossier `data` du repository GitHub, car GitHub n'accepte pas les fichiers dépassant les 20-25 Mo.
+
 ## Présentation
 
 Ce projet a été réalisé dans le cadre du rattrapage du cours de Python du Master 1 ISDS (ISUP), en mai-juin 2025.
